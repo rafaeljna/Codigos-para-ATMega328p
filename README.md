@@ -1,5 +1,5 @@
 # Codes-for-ATMega328p
-Códigos feitos no microprocessador do Arduino UNO - ATMega328p para controle de LEDs, botões e displays de 7 segmentos usando cristal de quartzo e capacitores para clock, bargraph, resistores de proteção, botões com pull-up e pull-down. Foi utilizado o Arduino IDE utilizando macros, manipulação de registradores e bits e o software Proteus 8.16v para simulação.
+Códigos feitos no microcontrolador do Arduino UNO - ATMega328p para controle de LEDs, botões e displays de 7 segmentos usando cristal de quartzo e capacitores para clock, bargraph, resistores de proteção, botões com pull-up e pull-down. Foi utilizado o Arduino IDE utilizando macros, manipulação de registradores e bits e o software Proteus 8.16v para simulação.
 
 1. LIGANDO LEDs
 
