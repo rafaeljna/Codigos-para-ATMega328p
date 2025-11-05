@@ -16,4 +16,11 @@ g) Da direita para a esquerda, manter acesos; depois apagar; depois esquerda par
 h) Contagem binária crescente (0–255) com passo de 250 ms.
 i) Contagem binária decrescente (255–0) com passo de 250 ms.
 
+2. DISPLAYS DE 7 SEGMENTOS
+
+Usar 2 displays multiplexados:
+
+Display 1: contagem crescente de 0 a F.
+Display 2: contagem decrescente de F a 0.
+
 Códigos feitos para a 1ª avaliação da disciplina de Microprocessadores e Microcontroladores. - Rafael Alencar, Engenharia da Computação - Universidade Estadual do Maranhão, 2025.
